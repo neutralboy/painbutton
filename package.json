@@ -24,7 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://painbutton.github.io",
+  "homepage": "https://neutralboy.github.io/painbutton/",
   "eslintConfig": {
     "extends": "react-app"
   },
