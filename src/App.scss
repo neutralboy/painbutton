@@ -1,0 +1,56 @@
+@import '~mini.css/src/flavors/mini-nord.scss';
+html, *{
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.5;
+    -webkit-text-size-adjust: 100%;
+}
+.center{
+    text-align: center;
+    left: 25%;
+}
+.round-button{
+    min-width: 14rem;
+    max-width: 14rem;
+    text-decoration: none;
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    border-style: none;
+    color: white;
+    background-color: #e63d3d;
+    border-radius: 100%;
+    overflow: none;
+    text-align: center;
+    padding:0;
+  }
+  .round-button:before {
+    content:'';
+    display:inline-block;;
+    vertical-align:middle;
+    padding-top:100%;
+  }
+  span {
+    display:inline-block;
+    vertical-align:middle;
+    max-width:90%;
+    font-size: 2rem;
+  }
+  .round-button:active{
+    background-color: #2980b9;
+  }
+
+.container{
+    padding-bottom: 2px;
+    .row{
+        border: 1px solid rgb(99, 99, 99);
+        .col-sm-11{
+            p{
+                padding-top: 5px;
+            }
+        }
+    }
+}
+.display-box{
+    background-color: rgb(228, 224, 224);
+    padding: 10px;
+}
