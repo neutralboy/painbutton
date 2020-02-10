@@ -1,5 +1,5 @@
 {
-  "short_name": "PainBtn",
+  "short_name": "Pain",
   "name": "Pain Button",
   "icons": [
     {
@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/",
+  "start_url": "/painbutton/",
   "display": "standalone",
   "theme_color": "#2980b9",
   "background_color": "#eceff4"
