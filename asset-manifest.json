@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/painbutton/static/css/main.db4d19b3.chunk.css",
+    "main.js": "/painbutton/static/js/main.c7dfb06a.chunk.js",
+    "main.js.map": "/painbutton/static/js/main.c7dfb06a.chunk.js.map",
+    "runtime-main.js": "/painbutton/static/js/runtime-main.1c7adad7.js",
+    "runtime-main.js.map": "/painbutton/static/js/runtime-main.1c7adad7.js.map",
+    "static/js/2.dd0a6238.chunk.js": "/painbutton/static/js/2.dd0a6238.chunk.js",
+    "static/js/2.dd0a6238.chunk.js.map": "/painbutton/static/js/2.dd0a6238.chunk.js.map",
+    "index.html": "/painbutton/index.html",
+    "precache-manifest.9fb548f79ff7bd97950af232f1456ff1.js": "/painbutton/precache-manifest.9fb548f79ff7bd97950af232f1456ff1.js",
+    "service-worker.js": "/painbutton/service-worker.js",
+    "static/css/main.db4d19b3.chunk.css.map": "/painbutton/static/css/main.db4d19b3.chunk.css.map",
+    "static/js/2.dd0a6238.chunk.js.LICENSE.txt": "/painbutton/static/js/2.dd0a6238.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c7adad7.js",
+    "static/js/2.dd0a6238.chunk.js",
+    "static/css/main.db4d19b3.chunk.css",
+    "static/js/main.c7dfb06a.chunk.js"
+  ]
+}
